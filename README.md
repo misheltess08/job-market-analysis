@@ -52,7 +52,7 @@ A single `jobs` table in MySQL:
 ### 2. Python dominates required skills
 Top 10 skills across all postings: Python (4,450), SQL (3,407), TensorFlow (3,022), Kubernetes (3,009), Scala (2,794), PyTorch (2,777), Linux (2,705), Git (2,631), Java (2,578), GCP (2,442).
 
-![Top 10 In-Demand Skills](top_in_demand_skills.png)
+![Top In-Demand Skills](top_in_demand_skills.png)
 
 ### 3. Remote work ratio has minimal impact on salary
 | Remote Ratio | Average Salary (USD) |
